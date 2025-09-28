@@ -81,7 +81,7 @@ export default function Contact() {
               </div>
               <div className="flex items-center gap-3 mb-4">
                 <FaEnvelope className="text-[#FF6B35]" />
-                <span>info@dreamsquare.com</span>
+                <span>contact@dreamsquarereality.com</span>
               </div>
               <div className="flex items-center gap-3 mb-6">
                 <FaMapMarkerAlt className="text-[#FF6B35]" />

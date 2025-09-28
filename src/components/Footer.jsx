@@ -93,7 +93,7 @@ export default function Footer() {
           <h4 className="text-lg font-semibold text-white mb-4">Contact Us</h4>
           <p className="text-sm mb-2">Bhutani alphathumb sector-90 Noida</p>
           <p className="text-sm mb-2">Phone: +91-8527115695</p>
-          <p className="text-sm mb-4">Email: info@dreamsquare.com</p>
+          <p className="text-sm mb-4">Email: contact@dreamsquarerealty.com</p>
           <div className="flex space-x-4">
             <a
               href="#"
