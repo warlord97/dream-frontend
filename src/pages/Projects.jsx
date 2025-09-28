@@ -62,7 +62,7 @@ export default function Projects() {
               />
               <div className="p-6">
                 <h3 className="text-lg md:text-xl font-semibold mb-2">
-                  {project.name}
+                  {project.title}
                 </h3>
                 <p className="text-sm text-gray-300 mb-1">
                   <span className="font-semibold text-[#FF6B35]">
