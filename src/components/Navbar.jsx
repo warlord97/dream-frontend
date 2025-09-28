@@ -44,7 +44,7 @@ export default function Navbar() {
       {/* Desktop Phone */}
       <div className="hidden md:flex items-center space-x-4">
         <a
-          href="tel:+919732300007"
+          href="tel:+918527115695"
           className="flex items-center space-x-2 border border-[#FF6B35] rounded-full px-4 py-2 text-[#FF6B35] hover:bg-[#FF6B35] hover:text-[#00332D] transition-colors duration-300"
         >
           <FaPhoneAlt className="text-sm" />
@@ -96,7 +96,7 @@ export default function Navbar() {
         </Link>
 
         <a
-          href="tel:+919732300007"
+          href="tel:+918527115695"
           className="flex items-center space-x-2 border border-[#FF6B35] rounded-full px-4 py-2 text-[#FF6B35] hover:bg-[#FF6B35] hover:text-[#00332D] transition-colors duration-300 text-sm"
         >
           <FaPhoneAlt className="text-sm" />

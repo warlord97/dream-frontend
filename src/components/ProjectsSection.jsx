@@ -6,7 +6,6 @@ export default function ProjectsSection() {
       id: 1,
       name: "M3M Cullinan",
       location: "Noida, Sector 94, 201301",
-      connectivity: "Easy Connectivity to Noida Expressway",
       price: "₹1 Cr onwards",
       type: "Commercial",
       propertyType: "Fine Dine, Food Court, Retail Shop",
@@ -16,7 +15,6 @@ export default function ProjectsSection() {
       id: 2,
       name: "L&T Green Reserve",
       location: "Noida Expressway, Sector 128, 201304",
-      connectivity: "Easy Connectivity to Noida Expressway",
       price: "₹6.30 Cr onwards",
       type: "Residential",
       propertyType: "Apartment, 3BHK, 4BHK",
@@ -26,7 +24,6 @@ export default function ProjectsSection() {
       id: 3,
       name: "Max Estates 128",
       location: "Noida Sector 128, 201304",
-      connectivity: "Easy Connectivity to Noida Expressway",
       price: "₹11.35 Cr onwards",
       type: "Residential",
       propertyType: "4BHK, 5BHK",
@@ -63,9 +60,6 @@ export default function ProjectsSection() {
                     Location:
                   </span>{" "}
                   {project.location}
-                </p>
-                <p className="text-sm text-gray-300 mb-1">
-                  {project.connectivity}
                 </p>
                 <p className="text-sm text-gray-300 mb-1">
                   <span className="font-semibold text-[#FF6B35]">Price:</span>{" "}
